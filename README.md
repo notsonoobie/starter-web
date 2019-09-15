@@ -1,4 +1,4 @@
-# Forked for Learning Git - Prof. Jason Taylor
+# Forked for Learning Git - With the help of Prof. Jason Taylor
 ## starter-web
 Simple starting point website project based upon Initializr
 
