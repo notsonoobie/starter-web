@@ -1,4 +1,4 @@
-# Adding this line for Basing purpose
+# Adding this line for reBasing purpose
 # robotstxt.org/
 
 User-agent: *
