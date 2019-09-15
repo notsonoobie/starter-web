@@ -1,0 +1,5 @@
+Hey there! I am a noob :)
++ ADDING NEW FILE - "dummy.txt" TO THE REPOSITORY
++ ADDING MULTIPLE LINE TEXT TO THE CURRENT FILE
+
+-A Noob
