@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahul Gupta @notsonoobie : Github
 
 # THANKS
 
