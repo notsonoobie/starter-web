@@ -1,6 +1,6 @@
 Hey there! I am a noob2 :)
-* ADDING NEW FILE - "dummy.txt" TO THE REPOSITORY
-* ADDING MULTIPLE LINE TEXT TO THE CURRENT FILE
+ADDING NEW FILE - "dummy.txt" TO THE REPOSITORY
+ADDING MULTIPLE LINE TEXT TO THE CURRENT FILE
 
 Lorem ipsum dolor amet gentrify woke plaid craft beer four dollar toast irony helvetica next level XOXO gochujang. Hammock banh mi cray deep v cronut bushwick. Gluten-free truffaut asymmetrical kale chips ramps. Tattooed williamsburg authentic, DIY taiyaki narwhal gluten-free +1 vice craft beer put a bird on it.
 
