@@ -1,4 +1,4 @@
-# This Line will be based into other branch
+# This Line will be rebased into other branch
 # humanstxt.org/
 # The humans responsible & technology colophon
 
